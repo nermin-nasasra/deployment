@@ -1,0 +1,23 @@
+{
+  "name": "deployment",
+  "version": "1.0.0",
+  "description": "Number and name of feature: Feature #1: Deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nermin-nasasra/deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nermin-nasasra/deployment/issues"
+  },
+  "homepage": "https://github.com/nermin-nasasra/deployment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
